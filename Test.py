@@ -1,1 +1,1 @@
-
+# Open the cloned `ml-engineer-journey` folder in VS Code (File → Open Folder). Edit README.md to add a short intro: your goal, your ~11-month timeline, why you're doing this. Then in the terminal, from inside that folder, run `git add .`, then `git commit -m "Initial setup: goals and roadmap"`, then `git push`. Refresh the repo page in your browser — you should see your update. This is the actual proof-of-work step, so don't let it sit half-done.
